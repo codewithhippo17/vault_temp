@@ -1,0 +1,13 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6- Atomic-notes",
+  "trashOption": "local",
+  "attachmentFolderPath": "2- Source-material/Attachment",
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "1- Rough-notes/"
+  ],
+  "promptDelete": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true
+}

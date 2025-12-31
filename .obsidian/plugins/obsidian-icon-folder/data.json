@@ -1,0 +1,82 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAnchor",
+      "LiClipboard",
+      "LiHome",
+      "LiAlignJustify",
+      "LiFeather"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "2- Source-material": {
+    "iconName": "LiArchive",
+    "iconColor": "#a9a9a9"
+  },
+  "6- Atomic-notes": {
+    "iconName": "LiAtom",
+    "iconColor": "#4a5dbf"
+  },
+  "4- Indexes": {
+    "iconName": "LiIndent",
+    "iconColor": "#ff6721"
+  },
+  "1- Rough-notes": {
+    "iconName": "LiEdit3",
+    "iconColor": "#ffffff"
+  },
+  "2- Source-material/Books": {
+    "iconName": "LiBook",
+    "iconColor": "#8b4513"
+  },
+  "2- Source-material/Youtube": {
+    "iconName": "LiYoutube",
+    "iconColor": "#ff0000"
+  },
+  "2- Source-material/Courses": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "#c0c0c0"
+  },
+  "2- Source-material/Dictionary": "LiLanguages",
+  "2- Source-material/Attachment": "LiPaperclip",
+  "5- Templates": {
+    "iconName": "LiLayoutTemplate",
+    "iconColor": "#032900"
+  },
+  "5- Templates/Full-note.md": "LiNotebookPen",
+  "5- Templates/Links.md": "LiLink2",
+  "5- Templates/Daily note.md": "LiCalendarDays",
+  "2- Source-material/Blog": "LiFeather",
+  "5- Templates/Index.md": "LiAlignJustify",
+  "2- Source-material/Clippings": "LiClipboard",
+  "2- Source-material/Projects": "LiAnchor",
+  "3- Tags": {
+    "iconName": "LiTags",
+    "iconColor": "#ffd700"
+  }
+}

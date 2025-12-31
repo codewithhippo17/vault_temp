@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file: Marketing & Sales",
+      "color": {
+        "a": 1,
+        "rgb": 2673819
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 1.20993150684932,
+  "lineSizeMultiplier": 1.63952054794521,
+  "collapse-forces": false,
+  "centerStrength": 0.389334637964775,
+  "repelStrength": 7.9119373776908,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.11483715686111198,
+  "close": true
+}

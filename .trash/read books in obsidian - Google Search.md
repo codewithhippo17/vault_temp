@@ -1,0 +1,212 @@
+---
+title: read books in obsidian - Google Search
+created:
+tags:
+---
+## Accessibility links
+
+Skip to main content [Accessibility help](https://support.google.com/websearch/answer/181196?hl=en-MA)
+
+Accessibility feedback
+
+## Search Results
+
+Obsidian - Sharpen your thinking
+
+  
+
+Obsidian
+
+https://obsidian.md
+
+[View original](https://obsidian.md/)
+
+Obsidian
+
+https://obsidian.md
+
+*Obsidian stores notes privately on your device*, so you can access them quickly, even offline. No one else can read them, not even us. Your mind is unique...
+
+Workflow: Reading Ebook(epub, mobi, azw, etc ) in Obsidian
+
+  
+
+Obsidian Forum
+
+https://forum.obsidian.md › workflow-reading-ebook-e...
+
+[View original](https://forum.obsidian.md/t/workflow-reading-ebook-epub-mobi-azw-etc-in-obsidian/17977)
+
+Obsidian Forum
+
+https://forum.obsidian.md › workflow-reading-ebook-e...
+
+May 11, 2021 — *Right click on an open book*. Go to 'preferences' → 'page layout' and set everything to 0 except for the paged mode. Put 1s there.
+
+## AI overview
+
+**AI Overview**
+
++10
+
+You can read and interact with books in Obsidian by ==installing community plugins like ePub Reader for direct EPUB viewing, or by converting book content into separate notes for integrated note-taking and linking==.Alternatively, you can use [Book Search](https://www.google.com/search?cs=1&sca_esv=2865fea3d3342d0d&sxsrf=AE3TifMOZol1LTKfiBnkRBx7_3ka4utuDA%3A1757350963406&q=Book+Search&sa=X&ved=2ahUKEwioxIK_0smPAxXfQ6QEHVuLNScQxccNegQICRAB&mstk=AUtExfCmrrkRSH6CsVxpV5ENgutu0lWemuamKmgFglZN6A_OtgokxrF1jf3rZ9vGUAXaRxx_SoC6G97HE5DZ3fuZGYhkhPevhpxMDNv_INXZkDQaxfRg25fVlBb273LP3bBCs3jd4UJi9mtfGoiphEQprqVkJ9qrHI5NIqKjAf7a0fC_S_U&csui=3) and [Projects](https://www.google.com/search?cs=1&sca_esv=2865fea3d3342d0d&sxsrf=AE3TifMOZol1LTKfiBnkRBx7_3ka4utuDA%3A1757350963406&q=Projects&sa=X&ved=2ahUKEwioxIK_0smPAxXfQ6QEHVuLNScQxccNegQICRAC&mstk=AUtExfCmrrkRSH6CsVxpV5ENgutu0lWemuamKmgFglZN6A_OtgokxrF1jf3rZ9vGUAXaRxx_SoC6G97HE5DZ3fuZGYhkhPevhpxMDNv_INXZkDQaxfRg25fVlBb273LP3bBCs3jd4UJi9mtfGoiphEQprqVkJ9qrHI5NIqKjAf7a0fC_S_U&csui=3) plugins to manage a book library with metadata and visuals, or even embed an external content server from a tool like [Calibre](https://www.google.com/search?cs=1&sca_esv=2865fea3d3342d0d&sxsrf=AE3TifMOZol1LTKfiBnkRBx7_3ka4utuDA%3A1757350963406&q=Calibre&sa=X&ved=2ahUKEwioxIK_0smPAxXfQ6QEHVuLNScQxccNegQICRAD&mstk=AUtExfCmrrkRSH6CsVxpV5ENgutu0lWemuamKmgFglZN6A_OtgokxrF1jf3rZ9vGUAXaRxx_SoC6G97HE5DZ3fuZGYhkhPevhpxMDNv_INXZkDQaxfRg25fVlBb273LP3bBCs3jd4UJi9mtfGoiphEQprqVkJ9qrHI5NIqKjAf7a0fC_S_U&csui=3) using an iframe for a side-by-side reading experience.
+
+Using Plugins for Direct EPUB Reading
+
+This video demonstrates how to use the ePub Reader plugin in Obsidian:
+
+[![](https://www.google.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)](https://www.youtube.com/watch?v=7_D4aOqllAE&t=0)
+
+[HardReset\_info Tests](https://www.youtube.com/watch?v=7_D4aOqllAE&t=0)
+
+[
+
+YouTube · Oct 16, 2024
+
+](https://www.youtube.com/watch?v=7_D4aOqllAE&t=0)
+
+Converting Book Content into Obsidian Notes
+
+1. Right-click on the EPUB file and use an extraction tool (or rename to.zip) to access its contents, including chapter files.
+2. In Obsidian, create a new note and paste the book's table of contents there.
+3. Create a new note for each chapter, linking from the TOC page to the chapter's note.
+4. Copy the text from each chapter into its corresponding Obsidian note.
+5. Use Obsidian's linking features to connect ideas within the book to your existing notes and create a connected reading experience.
+
+Managing a Book Library with Metadata
+
+1. Install and enable the Book Search, Projects, and Templater plugins.
+2. Create a new Templater template to define how book notes are structured, including fields for metadata like series, author, and ISBN.
+3. Use the Book Search plugin to find a book, which will then use the Templater template to create a new book note with fetched metadata and a cover image.
+4. The Projects plugin allows you to create dashboards and galleries to visualize your book collection.
+
+Integrating External Book Viewers
+
+1. Start the Calibre content server to make your books accessible over the network.
+2. In Obsidian, embed the content server URL using an iframe in a new note, allowing you to view the book and take notes simultaneously.
+
+This video shows how to set up and use Calibre's content server:
+
+[![](https://www.google.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)](https://www.youtube.com/watch?v=7_D4aOqllAE&t=0)
+
+[HardReset\_info Tests](https://www.youtube.com/watch?v=7_D4aOqllAE&t=0)
+
+[
+
+YouTube · Oct 16, 2024
+
+](https://www.youtube.com/watch?v=7_D4aOqllAE&t=0)
+
+Videos[Practical Demo: Read eBooks and Create Visual Summaries...](https://www.youtube.com/watch?v=nAdbCQ3qiLE)
+
+[YouTube Zsolt's Visual Personal Knowledge Management
+
+Nov 6, 2024
+
+](https://www.youtube.com/watch?v=nAdbCQ3qiLE)[View all](https://www.google.com/search?sca_esv=2865fea3d3342d0d&udm=7&sxsrf=AE3TifNSYeWi60gh1NnlVw5EfZ7X11gOdg:1757350962314&q=read+books+in+obsidian&sa=X&ved=2ahUKEwiUyuq-0smPAxWgUqQEHRixA-gQ8ccDKAJ6BAhBEAQ)
+
+A Process for Reading Books and Making Notes in Obsidian
+
+  
+
+Mark McElroy
+
+https://markmcelroy.com › a-process-for-reading-books...
+
+[View original](https://markmcelroy.com/a-process-for-reading-books-and-making-notes-in-obsidian/)
+
+Mark McElroy
+
+https://markmcelroy.com › a-process-for-reading-books...
+
+Apr 13, 2022 — I started using a remarkable tool called *Obsidian* to capture notes and explore connections between them. Getting the most out of Obsidian required me to build...
+
+How I manage books and summaries in Obsidian
+
+  
+
+dsebastien.net
+
+https://www.dsebastien.net › how-i-manage-books-and-...
+
+[View original](https://www.dsebastien.net/how-i-manage-books-and-summaries-in-obsidian/)
+
+dsebastien.net
+
+https://www.dsebastien.net › how-i-manage-books-and-...
+
+Jul 6, 2024 — This is a tutorial explaining *how to manage books and summaries in Obsidian*, including how to create a list and a gallery of books.
+
+Mastering the Craft of Obsidian Note-Taking: How to Read...
+
+  
+
+Medium · Diana Demco
+
+400+ likes · 2 years ago
+
+[View original](https://medium.com/@dianademco/mastering-the-craft-of-obsidian-note-taking-how-to-read-smarter-and-remember-more-6af282657e57)
+
+Medium · Diana Demco
+
+400+ likes · 2 years ago
+
+[![read books in obsidian from medium.com](https://yh5baekaaealaaaaaabaaeaaaictaeaow==/)](https://medium.com/@dianademco/mastering-the-craft-of-obsidian-note-taking-how-to-read-smarter-and-remember-more-6af282657e57)
+
+*1) Create a New Note* · 2) Add the Relevant Info On The Book (Optional) · 3) Decide Your Approach · 4) Skim the Book/Relevant Chapters.
+
+Discussions and forums[Books and scrolls - Pillars of Eternity: Stories (Spoiler Warning!)](https://forums.obsidian.net/topic/61378-books-and-scrolls/)
+
+[
+
+Obsidian Forums ·
+
+12 years ago
+
+](https://forums.obsidian.net/topic/61378-books-and-scrolls/)
+
+Books and scrolls - Pillars of Eternity: Stories (Spoiler Warning!)
+
+Obsidian Forums ·
+
+12 years ago[See more](https://www.google.com/search?q=read+books+in+obsidian&sca_esv=2865fea3d3342d0d&sxsrf=AE3TifNSYeWi60gh1NnlVw5EfZ7X11gOdg:1757350962314&udm=18&sa=X&ved=2ahUKEwiUyuq-0smPAxWgUqQEHRixA-gQ8poLegQIRBAD)
+
+How I track books and reading with Obsidian - Aaron Young
+
+  
+
+ajy.co
+
+https://ajy.co › how-i-track-books-and-reading-with-ob...
+
+[View original](https://ajy.co/how-i-track-books-and-reading-with-obsidian/)
+
+ajy.co
+
+https://ajy.co › how-i-track-books-and-reading-with-ob...
+
+Start using it: Add a few books · *Run the Obsidian command "Book Search: Create new note* " and search for a book. · You'll see a list of book editions. Pick one.
+
+How to Take Book Notes in Obsidian
+
+  
+
+Obsidian Rocks
+
+https://obsidian.rocks › how-to-take-book-notes-in-obsi...
+
+[View original](https://obsidian.rocks/how-to-take-book-notes-in-obsidian/)
+
+Obsidian Rocks
+
+https://obsidian.rocks › how-to-take-book-notes-in-obsi...
+
+Jan 26, 2023 — When taking notes, focus on making high quality notes that don't bite off more than they can chew. Taking *book* notes in *Obsidian* is great...
+
+Google apps
+
+Google Account
+
+elhaiba hamza
+
+elhaiba.hamza17@gmail.com

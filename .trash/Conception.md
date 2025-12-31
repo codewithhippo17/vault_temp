@@ -1,0 +1,1 @@
+![[Drawing 2025-09-20 09.06.32.excalidraw]]
